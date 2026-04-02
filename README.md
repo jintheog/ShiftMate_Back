@@ -187,11 +187,18 @@ erDiagram
 
 ## 🌟 이진 팀원의 핵심 기능 및 역할 (Technical Contributions)
 
+## 로그인, 회원가입, 소셜 로그인 API연동, SMTP 이메일 인증, 이미지 업로드, S3에 이미지 저장 ... 
+
+### e.g.
+
 ### 회원가입과 로그인
 ![signUp&Login](https://github.com/user-attachments/assets/1e48dfd2-45b5-46ee-bb97-3e8314bac10e)
 
 ### 이미지 업로드
 ![fileUpload](https://github.com/user-attachments/assets/8d33d003-deb0-462a-87d9-c7a8f27b8a27)
+
+### 가게 이미지 업로드
+![storeImageUpload](https://github.com/user-attachments/assets/1a67d41b-c589-45a2-9572-da4604de6e5a)
 
 
 ## 7. 공통 응답 포맷
