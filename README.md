@@ -187,6 +187,7 @@ erDiagram
 
 ## 🌟 이진 팀원의 핵심 기능 및 역할 (Technical Contributions)
 
+### 회원가입과 로그인
 ![signUp&Login](https://github.com/user-attachments/assets/1e48dfd2-45b5-46ee-bb97-3e8314bac10e)
 
 
