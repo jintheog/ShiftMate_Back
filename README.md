@@ -185,6 +185,11 @@ erDiagram
 - `PATCH /stores/{storeId}/substitute-requests/{requestId}/applications/{applicationId}/reject`
 - `DELETE /stores/{storeId}/substitute-requests/{requestId}/manager-cancel`
 
+## 🌟 이진 팀원의 핵심 기능 및 역할 (Technical Contributions)
+
+![signUp&Login](https://github.com/user-attachments/assets/1e48dfd2-45b5-46ee-bb97-3e8314bac10e)
+
+
 ## 7. 공통 응답 포맷
 
 성공:
